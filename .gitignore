@@ -28,6 +28,11 @@ project.xcworkspace
 .gradle
 local.properties
 
+#MS Code
+#
+.project
+.settings/
+
 # node.js
 #
 node_modules/
