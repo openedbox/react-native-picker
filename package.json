@@ -1,6 +1,6 @@
 {
   "name": "@avcdata/react-native-picker",
-  "version": "4.3.7",
+  "version": "1.0.0",
   "description": "A Native Picker with high performance. orgin repo: https://github.com/beefe/react-native-picker",
   "main": "index.js",
   "types": "index.d.ts",
