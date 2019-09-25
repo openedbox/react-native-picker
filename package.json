@@ -1,5 +1,5 @@
 {
-  "name": "@arn/react-native-picker ",
+  "name": "@avcdata/react-native-picker",
   "version": "4.3.7",
   "description": "A Native Picker with high performance. orgin repo: https://github.com/beefe/react-native-picker",
   "main": "index.js",
