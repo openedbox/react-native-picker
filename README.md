@@ -2,7 +2,7 @@
 
 ### 当前仓库从 https://github.com/beefe/react-native-picker Fork，感谢原作者, 因为原仓库修复不及时，所以建立这个仓库, 用于后期修复bug 并重新提交npm仓库
 
-### npm重命名为 @arn/react-native-picker 
+### npm重命名为 @avcdata/react-native-picker 
 
 [![npm version](https://img.shields.io/npm/v/react-native-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-picker) <a href="https://david-dm.org/beefe/react-native-picker"><img src="https://david-dm.org/beefe/react-native-picker.svg?style=flat-square" alt="dependency status"></a>   
 
